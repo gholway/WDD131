@@ -21,3 +21,14 @@ img {
     width: 150px;
     height: 150px;
 }
+.dark ::backdrop {
+    color:#333
+}
+.dark h2 {
+    letter-spacing: 6px;
+    color:white;
+    text-align: center;
+}
+.dark p {
+    color:white
+}
