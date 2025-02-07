@@ -1,0 +1,22 @@
+:root {
+--primary-color: #EFC69B;
+--secondary-color: #AF1B3F;
+--accent-color: #473144;
+--primary-font: Helvetica, Arial, sans-serif;
+--secondary-font: Lora, Impact, serif;
+}
+body {
+    font-family: var(var(var(--primary-font)));
+    font-size: medium;
+    color: var(--accent-color);
+    max-width: 30%;
+}
+head {
+    color: var(--secondary-color);
+    font-size: larger;
+    padding-bottom: 30%;
+}
+nav {
+    padding-bottom: 20%;
+    padding-top: 20%;
+}
